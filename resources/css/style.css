@@ -1,32 +1,36 @@
+/*All-ement CSS*/
 * {
   font-family: Verdana;
   background-color: black;
   text-align: center;
+  color: white;
 }
 
+/*Heading 1 CSS*/
 h1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
 }
 
+/*Heading 2 CSS*/
 h2 {
   font-weight: 300;
   font-size: 42px;
-  color: white;
 }
 
+/*Paragraph text CSS*/
 p {
   font-size: 21px;
   color: gray;
 }
 
+/*Link text CSS*/
 a {
     color: aquamarine;
     font-size: 16px;
 }
 
+/*Class to right-align text*/
 .right {
   text-align: right;
 }
